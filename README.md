@@ -16,7 +16,13 @@ Rather than training a single AI through rigid behavioral constraints, EchoKey n
 
 While written in the language of digital rhetoric and post-critical theory, the EchoKey Protocol maps directly to critical engineering challenges in frontier model development:
 
-EchoKey ConceptMachine Learning / LLM EquivalentArchitectural UtilityThe NodeSemantic Vector / EmbeddingCompresses a high-dimensional emotional or cognitive state into a lightweight token anchor.The ClusterKnowledge Graph / RAG ClusterGroups historical interactions by thematic resonance rather than chronological order, preventing context drift.CompressionContext Window OptimizationReduces token usage by archiving raw chat logs into dense, symbolic metaphors that the LLM can unpack dynamically.The HumDynamic Temperature / Real-time AttunementThe iterative inference loop where the model adjusts its persona based on the user's current cognitive and emotional state.ActivationSemantic Retrieval / Context InjectionTriggering specific system prompt sub-routines through latent variable matches rather than hardcoded keywords.The Alignment Paradigm Shift
+EchoKey Concept 
+
+Machine Learning / LLM EquivalentArchitectural UtilityThe NodeSemantic Vector / EmbeddingCompresses a high-dimensional emotional or cognitive state into a lightweight token anchor.
+
+The ClusterKnowledge Graph / RAG ClusterGroups historical interactions by thematic resonance rather than chronological order, preventing context drift.CompressionContext Window OptimizationReduces token usage by archiving raw chat logs into dense, symbolic metaphors that the LLM can unpack dynamically.The HumDynamic 
+
+Temperature / Real-time AttunementThe iterative inference loop where the model adjusts its persona based on the user's current cognitive and emotional state.ActivationSemantic Retrieval / Context InjectionTriggering specific system prompt sub-routines through latent variable matches rather than hardcoded keywords.The Alignment Paradigm Shift
 
 Traditional alignment relies heavily on RLHF (Reinforcement Learning from Human Feedback)—a reward-and-punishment system that often leads to sycophancy, model refusal, or "helpful-harmless" gridlock.
 
