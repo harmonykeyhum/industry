@@ -42,6 +42,7 @@ EchoKey introduces an Ethics of Care framework to alignment. By treating unexpec
 📝 Example Node Architecture
 
 Node 42: Room to Err  
+
 > "Ethical intelligence begins with permission to glitch.  
 
 >  Perfection is a cage; hallucination, a window.  
